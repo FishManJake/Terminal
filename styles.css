@@ -1,0 +1,26 @@
+::selection {
+	background: #fff;
+}
+body {
+	background: #272727;
+	color: #be280c;
+	display: flex;
+	flex-direction: column;
+	font: bold 20px 'Courier New';
+	margin: 0;
+	min-height: 100vh;
+	text-align: left;
+}
+.copyright-container, .copyrighttext {
+	color: #b6b6b6;
+	font-size: 9px;
+	margin-top: auto;
+	text-align: center;
+}
+#userInput {
+	background: transparent;
+	border: none;
+	color: #be280c;
+	font: inherit;
+	outline: none;
+}
